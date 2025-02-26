@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Practice\\.NET\\MongoDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C56A546-2E9F-4742-B742-8EA81AAC268A}|MongoDB\\MongoDB.csproj|c:\\users\\user\\desktop\\practice\\.net\\mongodb\\mongodb\\data\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C56A546-2E9F-4742-B742-8EA81AAC268A}|MongoDB\\MongoDB.csproj|solutionrelative:mongodb\\data\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C56A546-2E9F-4742-B742-8EA81AAC268A}|MongoDB\\MongoDB.csproj|c:\\users\\user\\desktop\\practice\\.net\\mongodb\\mongodb\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C56A546-2E9F-4742-B742-8EA81AAC268A}|MongoDB\\MongoDB.csproj|solutionrelative:mongodb\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C56A546-2E9F-4742-B742-8EA81AAC268A}|MongoDB\\MongoDB.csproj|c:\\users\\user\\desktop\\practice\\.net\\mongodb\\mongodb\\data\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C56A546-2E9F-4742-B742-8EA81AAC268A}|MongoDB\\MongoDB.csproj|solutionrelative:mongodb\\data\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C56A546-2E9F-4742-B742-8EA81AAC268A}|MongoDB\\MongoDB.csproj|c:\\users\\user\\desktop\\practice\\.net\\mongodb\\mongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C56A546-2E9F-4742-B742-8EA81AAC268A}|MongoDB\\MongoDB.csproj|solutionrelative:mongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C56A546-2E9F-4742-B742-8EA81AAC268A}|MongoDB\\MongoDB.csproj|c:\\users\\user\\desktop\\practice\\.net\\mongodb\\mongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C56A546-2E9F-4742-B742-8EA81AAC268A}|MongoDB\\MongoDB.csproj|solutionrelative:mongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practice\\.NET\\MongoDB\\MongoDB\\Data\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "MongoDB\\Data\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practice\\.NET\\MongoDB\\MongoDB\\Data\\Entities\\Customer.cs",
+              "RelativeToolTip": "MongoDB\\Data\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:48:50.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practice\\.NET\\MongoDB\\MongoDB\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "MongoDB\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practice\\.NET\\MongoDB\\MongoDB\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "MongoDB\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:54:20.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MongoDBService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practice\\.NET\\MongoDB\\MongoDB\\Data\\MongoDBService.cs",
+              "RelativeDocumentMoniker": "MongoDB\\Data\\MongoDBService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practice\\.NET\\MongoDB\\MongoDB\\Data\\MongoDBService.cs",
+              "RelativeToolTip": "MongoDB\\Data\\MongoDBService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:41:21.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practice\\.NET\\MongoDB\\MongoDB\\appsettings.json",
+              "RelativeDocumentMoniker": "MongoDB\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practice\\.NET\\MongoDB\\MongoDB\\appsettings.json",
+              "RelativeToolTip": "MongoDB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T06:39:50.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Practice\\.NET\\MongoDB\\MongoDB\\Program.cs",
+              "RelativeDocumentMoniker": "MongoDB\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Practice\\.NET\\MongoDB\\MongoDB\\Program.cs",
+              "RelativeToolTip": "MongoDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T06:55:17.507Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
