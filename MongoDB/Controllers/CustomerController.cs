@@ -11,7 +11,7 @@ namespace MongoDB.Controllers
     public class CustomerController : ControllerBase
     {
         private readonly IMongoCollection<Customer> _customers;
-        public CustomerController(MongoDBService mongoDBService)
+        public CustomerController(MongoDBContext mongoDBService)
         {
             _customers = mongoDBService.Database?.GetCollection<Customer>("customer");
         }

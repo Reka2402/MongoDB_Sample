@@ -1042,11 +1042,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Practice\\.NET\\MongoDB\\MongoDB\\MongoDB.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder (2)\\New folder\\MongoDB_Sample\\MongoDB\\MongoDB.csproj",
       "projectName": "MongoDB",
-      "projectPath": "C:\\Users\\User\\Desktop\\Practice\\.NET\\MongoDB\\MongoDB\\MongoDB.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\New folder\\MongoDB_Sample\\MongoDB\\MongoDB.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Practice\\.NET\\MongoDB\\MongoDB\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\New folder (2)\\New folder\\MongoDB_Sample\\MongoDB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
